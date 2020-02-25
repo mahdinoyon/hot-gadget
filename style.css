@@ -1,0 +1,39 @@
+.container{
+    margin-bottom: 100px;
+}
+.WHITE-bg{
+    background-image: url(hot-gadgets/biography-bg.png);
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+
+.mini-cat-box{
+border: none;
+box-shadow: 5px 5px 10px lightgray;
+padding: 10px 30px;
+border-radius: 10px;
+
+}
+
+footer{
+    text-align: center;
+}
+
+
